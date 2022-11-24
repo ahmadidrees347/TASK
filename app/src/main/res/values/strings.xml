@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TASK</string>
+
+    <string name="home">Home</string>
+    <string name="orders">Orders</string>
+    <string name="notification">Notifications</string>
+    <string name="my_account">My Account</string>
+    <string name="new_order">New Order</string>
+    <string name="how_it_works">How it Works</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+</resources>
